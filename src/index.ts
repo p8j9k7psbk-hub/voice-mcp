@@ -4,7 +4,7 @@
  * An MCP server for AI voice synthesis with inline audio player.
  * Supports ElevenLabs TTS with a selected voice.
  * 
- * GitHub: https://github.com/garan0613/voice-mcp
+ * GitHub: https://github.com/p8j9k7psbk-hub/voice-mcp
  * License: MIT
  */
 
@@ -538,7 +538,7 @@ export default {
 </div>
 
 <p style="margin-top: 32px; color: #666; font-size: 14px;">
-  <a href="https://github.com/xxx/voice-mcp">GitHub</a> · MIT License
+  <a href="https://github.com/p8j9k7psbk-hub/voice-mcp">GitHub</a> · MIT License
 </p>
 </body></html>`,
         { headers: { 'Content-Type': 'text/html; charset=utf-8' } },
